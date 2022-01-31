@@ -129,6 +129,11 @@ html {
     padding-bottom: 5rem;
     padding-top: 12%;
   }
+
+  #specs-table{
+    font-size: 0.8rem; 
+  }
+
 }
 
 @media (max-width: 991.98px) {
