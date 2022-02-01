@@ -130,10 +130,9 @@ html {
     padding-top: 12%;
   }
 
-  #specs-table{
-    font-size: 0.8rem; 
+  #specs-table {
+    font-size: 0.6rem;
   }
-
 }
 
 @media (max-width: 991.98px) {
